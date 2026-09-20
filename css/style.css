@@ -43,8 +43,7 @@ div {
 .red, .yellow {
     text-align: right;
     margin-left: 50px;
-    border-left-width: 5px;
-    border-bottom-width: 2px;
+    border-width: 0px 0px 2px 5px;
 }
 
 .red { 
@@ -62,8 +61,7 @@ div {
 .blue, .green {
     text-align: left;
     margin-right: 50px;
-    border-right-width: 5px;
-    border-top-width: 2px;
+    border-width: 2px 5px 0px 0px;
 }
 
 .blue { 
